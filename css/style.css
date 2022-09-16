@@ -68,7 +68,6 @@ body {
   left: -45px;
   width: 37px;
   height: 32px;
-  background-image: url(../images/herbal.png);
   background-size: cover;
 }
 
@@ -246,7 +245,7 @@ a:focus {
   background-color: #fff;
   background-position: center;
   background-repeat: no-repeat;
-  margin-top: -150px;
+  margin-top: auto;
   -webkit-box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.21);
   box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.21);
 }
@@ -499,7 +498,7 @@ a:focus {
 }
 
 .info_section {
-  background-image: url(../images/info-bg.jpg);
+  background-image: url(../images/panther5.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
@@ -560,7 +559,7 @@ a:focus {
 
 .info_items .item .detail-box {
   margin-top: 10px;
-  color: #fff;
+  color: #000000;
 }
 
 .info_items {
